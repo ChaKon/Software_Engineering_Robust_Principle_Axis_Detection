@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="Constante.h" open="0" top="0" tabpos="9">
+		<Cursor position="531" topLine="4" />
+	</File>
+	<File name="Mesh.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="10603" topLine="151" />
+	</File>
+	<File name="Mesh.h" open="1" top="0" tabpos="2">
+		<Cursor position="5363" topLine="219" />
+	</File>
+	<File name="NeighborMesh.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="11516" topLine="0" />
+	</File>
+	<File name="NeighborMesh.h" open="0" top="0" tabpos="3">
+		<Cursor position="1350" topLine="13" />
+	</File>
+	<File name="RPA.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="9229" topLine="47" />
+	</File>
+	<File name="RPA.h" open="1" top="0" tabpos="6">
+		<Cursor position="1076" topLine="15" />
+	</File>
+	<File name="Stopwatch.h" open="0" top="0" tabpos="11">
+		<Cursor position="2775" topLine="0" />
+	</File>
+	<File name="TreeNode.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="9011" topLine="10" />
+	</File>
+	<File name="TreeNode.h" open="1" top="0" tabpos="8">
+		<Cursor position="1363" topLine="53" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="4651" topLine="154" />
+	</File>
+	<File name="scene.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="14261" topLine="381" />
+	</File>
+	<File name="scene.h" open="0" top="0" tabpos="5">
+		<Cursor position="2740" topLine="61" />
+	</File>
+	<File name="useful.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="2833" topLine="48" />
+	</File>
+	<File name="useful.h" open="1" top="0" tabpos="4">
+		<Cursor position="1793" topLine="30" />
+	</File>
+</CodeBlocks_layout_file>
